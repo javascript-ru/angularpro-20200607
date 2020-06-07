@@ -10,6 +10,7 @@ import { BrowserModule } from '@angular/platform-browser';
   imports: [
     BrowserModule
   ],
-  bootstrap: [FirstComponent]
+  bootstrap: [FirstComponent],
+  providers: []
 })
 export class FirstModule { }

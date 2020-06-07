@@ -6,8 +6,12 @@ import { DataService } from 'src/app/data.service';
   template: `
       first: {{number}}
       <button (click)="up()">+</button>
+
+      <!-- <app-child></app-child> -->
   `,
-  styleUrls: ['./first.component.css']
+  styleUrls: ['./first.component.css'],
+  providers: [],
+  viewProviders: [ ]
 })
 export class FirstComponent implements OnInit {
 

@@ -4,3 +4,4 @@
 4. А что пишут в ngOnBootstrap?
 5. customElements.define как дерегистрировать
 6. provideIn any example
+7.  Angular Universal. Как из запроса к серверу определить размер экрана пользователя
