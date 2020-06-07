@@ -5,3 +5,4 @@
 5. customElements.define как дерегистрировать
 6. provideIn any example
 7.  Angular Universal. Как из запроса к серверу определить размер экрана пользователя
+8.  Worker type: 'module' 
